@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  unit5.5.cpp
+E:\Разное\labs Hihorovych\5.5\unit5.5\unit5.5.cpp(15,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Разное\labs Hihorovych\5.5\5.5\5.5.cpp(46): warning C4715: 'F': not all control paths return a value
+     Creating library E:\Разное\labs Hihorovych\5.5\x64\Debug\unit5.5.lib and object E:\Разное\labs Hihorovych\5.5\x64\Debug\unit5.5.exp
+  unit5.5.vcxproj -> E:\Разное\labs Hihorovych\5.5\x64\Debug\unit5.5.dll
